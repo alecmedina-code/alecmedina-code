@@ -9,7 +9,7 @@
 
 <br/>
 
-Connect:
+## Connect:
 [<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" width="50"/>](https://www.linkedin.com/in/alecmedina/)
 
 <!--
