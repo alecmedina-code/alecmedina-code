@@ -9,7 +9,7 @@
 
 <br/>
 
-[<img alt="LinkedIn" src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/alecmedina/)
+[<img src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/alecmedina/)
 
 <!--
 **alecmedina-code/alecmedina-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
