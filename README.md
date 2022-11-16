@@ -10,7 +10,6 @@
 <br/>
 
 ### Connect:
-Email: alecmedina@icloud.com </br>
 [<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" width="50"/>](https://www.linkedin.com/in/alecmedina/)
 
 <!--
