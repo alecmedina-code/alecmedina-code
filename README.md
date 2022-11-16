@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+| Current Interests | Want to dive into |
+|----|----|
+| Automation and Controls 🎮 | Artificial Intelligence 🧠 |
+| Networking 💻 | GO 🏃🏽‍♂️ |
+| Web Development 🕸️ |  |
+| Cloud Development ☁️ |  |
+
+<br/>
+
+[<img alt="LinkedIn" src="img/linkedin.png" width="50" />](https://www.linkedin.com/in/alecmedina/)
+
 <!--
 **alecmedina-code/alecmedina-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
