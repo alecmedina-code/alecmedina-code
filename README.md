@@ -11,7 +11,8 @@
 
 ### Connect:
 [<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" width="50"/>](https://www.linkedin.com/in/alecmedina/)
-<script src="https://tryhackme.com/badge/1552298"></script>
+extra_javascript:
+  <script src="https://tryhackme.com/badge/1552298"></script>
 
 <!--
 **alecmedina-code/alecmedina-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
