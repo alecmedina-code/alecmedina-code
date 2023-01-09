@@ -3,9 +3,8 @@
 | Current Interests | Want to dive into |
 |----|----|
 | Automation and Controls 🎮 | Artificial Intelligence 🧠 |
-| Networking 💻 | GO 🏃🏽‍♂️ |
-| Web Development 🕸️ |  |
-| Cloud Development ☁️ |  |
+| Networking & Security 💻 | GO 🏃🏽‍♂️ |
+| Web & Cloud Development 🕸️ |  |
 
 <br/>
 
